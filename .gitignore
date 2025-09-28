@@ -1,0 +1,10 @@
+# Binary
+/task-cli
+
+
+# Data
+/tasks.json
+
+
+# OS
+.DS_Store
